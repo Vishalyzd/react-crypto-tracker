@@ -1,4 +1,21 @@
 # Getting Started with Create React App
+# Developed By Vishal Prriyadarshi 
+
+Solution Statement: 
+You will be able to search currencies and have it display on the browser. Also, the prices will update live whenever you refresh the page. We will get all of the data from a public API. 
+
+
+Steps Required for Home page
+
+Getting the API Link - API Used: https://www.coingecko.com/en/api
+Installing Axios
+Editing Coin Component
+Mapping through API Data
+Adding the CSS
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
